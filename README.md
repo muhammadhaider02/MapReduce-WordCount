@@ -5,3 +5,4 @@ Using these instruction, you can run the project on your local machine.
 3. Run Mapper.cpp in second window using -> g++ -pthread -o reducer Reducer.cpp
 4. Run ./testcases.sh and you will see output of all test cases. Output will also be stored in text files
  
+ 
